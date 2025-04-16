@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'GLayout'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A set of layout constraints utilities and UIView extensions for easier constraint management.'
   s.description      = <<-DESC
                          GLayout is a simple library that provides utilities for managing layout constraints.
