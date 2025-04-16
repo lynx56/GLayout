@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Gulnaz Almukhametova' => 'lynx56reg@gmail.com' }
   s.source           = { :git => 'https://github.com/lynx56/GLayout.git', :tag => '1.0.0' }
-  s.platform         = :ios, '10.0'
+  s.platform         = :ios, '13.0'
   s.source_files     = 'Sources/GLayout/**/*.{swift}'
   s.requires_arc     = true
 
