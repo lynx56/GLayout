@@ -5,8 +5,6 @@
 //  Created by Holyberry on 23.11.2021.
 //
 
-import R4SCore
-
 public enum RespectBottomSafeAreaConstraints {
     
     public static var pin: [PairedConstraint] {
