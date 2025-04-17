@@ -1,10 +1,3 @@
-//
-//  RespectBottomSafeAreaConstraints.swift
-//  R4STuyaPairing
-//
-//  Created by Holyberry on 23.11.2021.
-//
-
 public enum RespectBottomSafeAreaConstraints {
     
     public static var pin: [PairedConstraint] {

@@ -1,10 +1,3 @@
-//
-//  PairedConstraint+less.swift
-//  Scales
-//
-//  Created by Holyberry on 18.11.2020.
-//
-
 import UIKit
 
 public func lessOrEqual<Anchor, AnchorType>(_ keyPath: KeyPath<UIView, Anchor>,

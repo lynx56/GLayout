@@ -1,10 +1,3 @@
-//
-//  PairedConstraint+greater.swift
-//  Scales
-//
-//  Created by Holyberry on 18.11.2020.
-//
-
 import UIKit
 
 public func greaterOrEqual<Anchor, AnchorType>(_ keyPath: KeyPath<UIView, Anchor>,

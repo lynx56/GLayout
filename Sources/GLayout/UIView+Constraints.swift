@@ -1,11 +1,3 @@
-//
-//  UIView+addSubview.swift
-//  RSM41S
-//
-//  Created by Holyberry on 04.10.2020.
-//  Copyright © 2020 Ready For Sky. All rights reserved.
-//
-
 import UIKit
 
 public typealias SingleConstraint = (UIView) -> NSLayoutConstraint
